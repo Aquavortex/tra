@@ -1,0 +1,37 @@
+@font-face {
+    font-family: 'Gotham Pro';
+    src: url('subset-GothamPro-Light-7f8.arb-ZQ0PYTD2.woff2') format('woff2'),
+        url('../../aculon-a211.best-pokupka.ru/files/subset-GothamPro-Light-34a.arb-ZQ0PYTD2.woff') format('woff'),
+        url('../../aculon-a211.best-pokupka.ru/files/subset-GothamPro-Light-058.arb-ZQ0PYTD2.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Gotham Pro';
+    src: url('subset-GothamPro-fa9.arb-ZQ0PYTD2.woff2') format('woff2'),
+        url('../../aculon-a211.best-pokupka.ru/files/subset-GothamPro-ae7.arb-ZQ0PYTD2.woff') format('woff'),
+        url('../../aculon-a211.best-pokupka.ru/files/subset-GothamPro-a43.arb-ZQ0PYTD2.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Gotham Pro';
+    src: url('subset-GothamPro-Medium-a16.arb-ZQ0PYTD2.woff2') format('woff2'),
+        url('../../aculon-a211.best-pokupka.ru/files/subset-GothamPro-Medium-308.arb-ZQ0PYTD2.woff') format('woff'),
+        url('../../aculon-a211.best-pokupka.ru/files/subset-GothamPro-Medium-e93.arb-ZQ0PYTD2.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Gotham Pro';
+    src: url('subset-GothamPro-Bold-6c3.arb-ZQ0PYTD2.woff2') format('woff2'),
+        url('../../aculon-a211.best-pokupka.ru/files/subset-GothamPro-Bold-0bd.arb-ZQ0PYTD2.woff') format('woff'),
+        url('../../aculon-a211.best-pokupka.ru/files/subset-GothamPro-Bold-ad8.arb-ZQ0PYTD2.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+
+
+
+

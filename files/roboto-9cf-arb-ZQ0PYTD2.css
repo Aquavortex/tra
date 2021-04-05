@@ -1,0 +1,72 @@
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Thin'), local('Roboto-Thin'), url('../../aculon-a211.best-pokupka.ru/files/robotothin-6f3.arb.woff2') format('woff2'), url('../../aculon-a211.best-pokupka.ru/files/robotothin-0f9.arb.woff') format('woff'), url('../../aculon-a211.best-pokupka.ru/files/robotothin-29b.arb.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Thin Italic'), local('Roboto-ThinItalic'), url('../../aculon-a211.best-pokupka.ru/files/robotothinitalic-51c.arb.woff2') format('woff2'), url('../../aculon-a211.best-pokupka.ru/files/robotothinitalic-bcd.arb.woff') format('woff'), url('../../aculon-a211.best-pokupka.ru/files/robotothinitalic-f1a.arb.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Light'), local('Roboto-Light'), url('../../aculon-a211.best-pokupka.ru/files/robotolight-b53.arb.woff2') format('woff2'), url('../../aculon-a211.best-pokupka.ru/files/robotolight-25f.arb.woff') format('woff'), url('../../aculon-a211.best-pokupka.ru/files/robotolight-3a2.arb.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Light Italic'), local('Roboto-LightItalic'), url('../../aculon-a211.best-pokupka.ru/files/robotolightitalic-ae5.arb.woff2') format('woff2'), url('../../aculon-a211.best-pokupka.ru/files/robotolightitalic-fb9.arb.woff') format('woff'), url('../../aculon-a211.best-pokupka.ru/files/robotolightitalic-bc9.arb.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto'), local('Roboto-Regular'), url('../../aculon-a211.best-pokupka.ru/files/roboto-c2b.arb.woff2') format('woff2'), url('../../aculon-a211.best-pokupka.ru/files/roboto-1bc.arb.woff') format('woff'), url('../../aculon-a211.best-pokupka.ru/files/roboto-e10.arb.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Italic'), local('Roboto-Italic'), url('../../aculon-a211.best-pokupka.ru/files/robotoitalic-be7.arb.woff2') format('woff2'), url('../../aculon-a211.best-pokupka.ru/files/robotoitalic-eb0.arb.woff') format('woff'), url('../../aculon-a211.best-pokupka.ru/files/robotoitalic-971.arb.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Medium'), local('Roboto-Medium'), url('../../aculon-a211.best-pokupka.ru/files/robotomedium-8bf.arb.woff2') format('woff2'), url('../../aculon-a211.best-pokupka.ru/files/robotomedium-33c.arb.woff') format('woff'), url('../../aculon-a211.best-pokupka.ru/files/robotomedium-677.arb.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Medium Italic'), local('Roboto-MediumItalic'), url('../../aculon-a211.best-pokupka.ru/files/robotomediumitalic-8fe.arb.woff2') format('woff2'), url('../../aculon-a211.best-pokupka.ru/files/robotomediumitalic-437.arb.woff') format('woff'), url('../../aculon-a211.best-pokupka.ru/files/robotomediumitalic-4e4.arb.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Bold'), local('Roboto-Bold'), url('../../aculon-a211.best-pokupka.ru/files/robotobold-d3d.arb.woff2') format('woff2'), url('../../aculon-a211.best-pokupka.ru/files/robotobold-844.arb.woff') format('woff'), url('../../aculon-a211.best-pokupka.ru/files/robotobold-856.arb.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Bold Italic'), local('Roboto-BoldItalic'), url('../../aculon-a211.best-pokupka.ru/files/robotobolditalic-ad9.arb.woff2') format('woff2'), url('../../aculon-a211.best-pokupka.ru/files/robotobolditalic-718.arb.woff') format('woff'), url('../../aculon-a211.best-pokupka.ru/files/robotobolditalic-c36.arb.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Black'), local('Roboto-Black'), url('../../aculon-a211.best-pokupka.ru/files/robotoblack-9ae.arb.woff2') format('woff2'), url('../../aculon-a211.best-pokupka.ru/files/robotoblack-84f.arb.woff') format('woff'), url('../../aculon-a211.best-pokupka.ru/files/robotoblack-ad1.arb.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Black Italic'), local('Roboto-BlackItalic'), url('../../aculon-a211.best-pokupka.ru/files/robotoblackitalic-d1f.arb.woff2') format('woff2'), url('../../aculon-a211.best-pokupka.ru/files/robotoblackitalic-14d.arb.woff') format('woff'), url('../../aculon-a211.best-pokupka.ru/files/robotoblackitalic-1b0.arb.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
